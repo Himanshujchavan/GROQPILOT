@@ -1,14 +1,14 @@
-🚀 Project Title:
-GroqPilot – High Speed Desktop Automation.
+# 🚀 Project Title:
+# GroqPilot – High Speed Desktop Automation.
 
 -------------------------------------------------------------------------------
 
-📌 Problem Statement:
+# 📌 Problem Statement:
 Problem Statement 5 :Build an assistant that uses terminator to interact with desktop apps based on user requests processed by Groq (e.g., "summarize my open emails," "find recent customer interactions in the CRM").
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎯 Objective:
+# 🎯 Objective:
 
 The objective is to develop a robust desktop automation assistant with AI capabilities, leveraging Next.js, Tauri, and Python.
 
@@ -37,7 +37,7 @@ Lowers operational costs through serverless architecture and on-demand scalabili
 Ensures future compatibility with its model-agnostic design, allowing for seamless upgrades to newer LLMs.
 
 ---------------------------------------------------------------------------
-🧠 Team & Approach:
+# 🧠 Team & Approach:
 
 Team Name: DEEPBLOCK
 
