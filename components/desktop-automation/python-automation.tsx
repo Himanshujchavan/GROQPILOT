@@ -101,7 +101,7 @@ export function PythonAutomation() {
       const controller = new AbortController()
       const timeoutId = setTimeout(() => controller.abort(), 5000) // 5 second timeout
 
-      const response = await fetch("http://localhost:8000/health", {
+      const response = await fetch("http://127.0.0.1:8000/health", {
         method: "GET",
         headers: { "Content-Type": "application/json" },
         signal: controller.signal,
@@ -120,9 +120,8 @@ export function PythonAutomation() {
       console.error("Error checking server status:", error)
       setServerStatus("offline")
 
-      // Provide more specific error messages
       if (error instanceof TypeError && error.message.includes("Failed to fetch")) {
-        setErrorDetails("Cannot connect to Python server. Make sure the server is running on http://localhost:8000")
+        setErrorDetails("Cannot connect to Python server. Make sure the server is running on http://127.0.0.1:8000")
       } else if (error instanceof DOMException && error.name === "AbortError") {
         setErrorDetails("Connection timed out. The server might be starting up or not responding.")
       } else {
