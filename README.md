@@ -74,10 +74,10 @@ The team decided to add mobile application support to enhance accessibility acro
 
 ## 🛠️ Tech Stack
 
-Frontend
+###Frontend --
 Next.js: React framework for the web UI
 
-*Tailwind CSS: Utility-first CSS framework
+Tailwind CSS: Utility-first CSS framework
 
 Framer Motion: Animation library
 
@@ -85,7 +85,8 @@ Lucide React: Icon library
 
 shadcn/ui: UI component library
 
-Backend
+###Backend--
+
 Tauri: Desktop application framework
 
 Python: Backend scripting for automation
@@ -96,22 +97,22 @@ pyautogui
 
 imaplib (Gmail IMAP)
 
-Database:
+###Database:
 
 Firebase (for authentication)
 
-APIs:
+###APIs:
 Firebase
 
 Groq (NLP engine)
 
-Hosting:
+###Hosting:
 
 Vercel (Frontend)
 
 GitHub (Backend)
 
-Sponsor Technologies Used:
+###Sponsor Technologies Used:
 Groq: The project utilizes Groq’s Llama 3-70B model to deliver ultra-fast, real-time AI chat responses.
 
 ScreenPipe: ScreenPipe is employed to track user screen interactions and optimize chat workflows.
