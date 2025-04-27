@@ -162,12 +162,14 @@ PPT Link: [Paste Google Slides / PDF link here]
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✅ Tasks & Bonus Checklist:
+# ✅ Tasks & Bonus Checklist:
 ✅ All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form (Details in Participant Manual)
-✅ All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points) (Details in Participant Manual)
-✅ All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points) (Details in Participant Manual)
+❌  All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points) (Details in Participant Manual)
+❌ All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points) (Details in Participant Manual)
 
-🧪 How to Run the Project
+---------------------------------------------------------------------------------------------------------------------------
+ 
+# 🧪 How to Run the Project
 
 Prerequisites
 Node.js 16+
@@ -293,7 +295,7 @@ password : password123
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-🧬 Future Scope:
+# 🧬 Future Scope:
 
 More Integrations:
 
@@ -319,7 +321,7 @@ Offline support for key features and mobile applications for iOS and Android to 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-📎 Resources / Credits
+# 📎 Resources / Credits
 APIs or Datasets Used:
 
 Gmail API / Outlook API – For email summarization and integration with email services.
@@ -346,7 +348,9 @@ FastAPI – For building the backend and API endpoints for the assistant.
 
 JWT (JSON Web Tokens) – For secure authentication and session management.
 
-🏁 Final Words:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🏁 Final Words:
 
 This hackathon was an enriching journey filled with challenges, learning, and rewarding moments. Key challenges included the seamless integration of multiple third-party APIs, ensuring real-time responsiveness for voice commands, and maintaining robust security and privacy for sensitive data. Each obstacle, however, provided valuable learning experiences.
 
