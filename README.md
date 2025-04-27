@@ -244,7 +244,7 @@ Verify that the Python server is running on port 5000:
 ```bash
 curl http://localhost:5000/api/health
 ```
-
+--
 Check the Python logs for errors.
 
 Desktop Automation Issues
@@ -258,6 +258,7 @@ On Linux: Install required dependencies (xdotool, etc.)
 
 Some automation features may be platform-specific.
 
+--
 AI Chat Issues
 If the AI chat is not working:
 
@@ -266,6 +267,12 @@ Check that the Python backend is running
 Verify your OpenAI API key if using OpenAI
 
 Try the fallback mode which uses local models
+
+### user login for perview :
+Email : test@example.com
+password : password123
+
+----------------------------------------------------------------------------------------------------------------------------
 
 🧬 Future Scope:
 
@@ -290,6 +297,8 @@ Context-aware and personalized task predictions, intelligent automation, and mor
 Offline Mode & Mobile App:
 
 Offline support for key features and mobile applications for iOS and Android to expand accessibility and usability.
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 📎 Resources / Credits
 APIs or Datasets Used:
