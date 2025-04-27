@@ -330,7 +330,7 @@ Google Calendar API – For calendar and scheduling integration
 
 Firebase API - For authentication
 
-groq API - For AI chat
+Groq API - For AI chat
 
 Open Source Libraries or Tools Referenced:
 
