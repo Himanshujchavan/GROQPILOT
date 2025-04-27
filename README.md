@@ -1,14 +1,14 @@
 # 🚀 Project Title:
-# GroqPilot – High Speed Desktop Automation.
+## GroqPilot – High Speed Desktop Automation.
 
 -------------------------------------------------------------------------------
 
-# 📌 Problem Statement:
+## 📌 Problem Statement:
 Problem Statement 5 :Build an assistant that uses terminator to interact with desktop apps based on user requests processed by Groq (e.g., "summarize my open emails," "find recent customer interactions in the CRM").
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🎯 Objective:
+## 🎯 Objective:
 
 The objective is to develop a robust desktop automation assistant with AI capabilities, leveraging Next.js, Tauri, and Python.
 
@@ -37,7 +37,7 @@ Lowers operational costs through serverless architecture and on-demand scalabili
 Ensures future compatibility with its model-agnostic design, allowing for seamless upgrades to newer LLMs.
 
 ---------------------------------------------------------------------------
-# 🧠 Team & Approach:
+## 🧠 Team & Approach:
 
 Team Name: DEEPBLOCK
 
@@ -72,7 +72,7 @@ The team decided to add mobile application support to enhance accessibility acro
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend
 Next.js: React framework for the web UI
@@ -101,6 +101,7 @@ Database:
 Firebase (for authentication)
 
 APIs:
+Firebase
 
 Groq (NLP engine)
 
@@ -117,7 +118,7 @@ ScreenPipe: ScreenPipe is employed to track user screen interactions and optimiz
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✨ Key Features:
+## ✨ Key Features:
 
 ⚡ Real-Time AI Responses:
 Provides instant, natural language conversations using Groq's Llama 3-70B model with ultra-low latency.
@@ -136,25 +137,25 @@ Employs minimal API payloads, optimized maximum token usage, and temperature tun
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📽️ Demo & Deliverables:
+## 📽️ Demo & Deliverables:
 Screenshots -
-# LOGIN
+## LOGIN
 ![LOGIN](https://github.com/user-attachments/assets/507692de-dbc5-4533-8fb3-83ff7d58c05a)
-# DASHBORD
+## DASHBORD
 ![DASHBOARD](https://github.com/user-attachments/assets/e2946641-d655-4ccf-b98a-80c3c6171b6c)
-# EMAIL
+## EMAIL
 ![EMAIL](https://github.com/user-attachments/assets/bff47d55-a5ee-4f68-b255-654834ec9866)
-# TASK ASSIATANT
+## TASK ASSIATANT
 ![TASK](https://github.com/user-attachments/assets/f52d714f-5714-4d89-b5fa-3894107719f8)
-# DOCUMENT
+## DOCUMENT
 ![DOCUMENT](https://github.com/user-attachments/assets/b2573bc9-a7ee-4ad1-a7e5-719963a02975)
-# AUTOMATION
+## AUTOMATION
 ![AUTOMATION](https://github.com/user-attachments/assets/11ec5747-74a5-4795-8ef8-d23674206214)
-# NLP ENGINE
+## NLP ENGINE
 ![NLP ENGINE](https://github.com/user-attachments/assets/e9543343-2b5f-4f54-a8f5-0db377bcb4a2)
-# QUICK ASSISTANCE
+## QUICK ASSISTANCE
 ![QUICK ASSIST](https://github.com/user-attachments/assets/9bc6fcd2-6af4-42d9-81fc-9700c18ec9a9)
-# AI CHAT
+## AI CHAT
 ![AI CHAT](https://github.com/user-attachments/assets/2e8eb13e-083f-452d-93f9-81f514057321)
 
 Demo Video Link: [Paste YouTube or Loom link here]
@@ -162,7 +163,7 @@ PPT Link: [Paste Google Slides / PDF link here]
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# ✅ Tasks & Bonus Checklist:
+## ✅ Tasks & Bonus Checklist:
 ✅ All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form (Details in Participant Manual)
 ❌  All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points) (Details in Participant Manual)
 ❌ All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points) (Details in Participant Manual)
@@ -295,7 +296,7 @@ password : password123
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-# 🧬 Future Scope:
+## 🧬 Future Scope:
 
 More Integrations:
 
@@ -321,7 +322,7 @@ Offline support for key features and mobile applications for iOS and Android to 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# 📎 Resources / Credits
+## 📎 Resources / Credits
 APIs or Datasets Used:
 
 Gmail API / Outlook API – For email summarization and integration with email services.
